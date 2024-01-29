@@ -16,3 +16,17 @@ if b>a and b>c:
 print ("From the above three numbers given b is largest")
 if c>a and bc>c:
  print ("From the above three numbers given c is largest")  
+
+
+
+
+
+number = int(input("Enter the number?"))
+if number==10:
+  Print("The given number is equals to 10");
+elif number==50:
+  Print("The given number is equals to 50");
+elif number==100:
+  Print("The given number is equals to 100");
+else:
+  Print("The given number is equals to 10, 50 or 100");
