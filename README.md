@@ -30,3 +30,17 @@ elif number==100:
   Print("The given number is equals to 100");
 else:
   Print("The given number is equals to 10, 50 or 100");
+
+
+
+
+class Human:
+      attr1="human"
+      attr2="student"
+      def fun(self):
+          print("I'm a",self.attr1)
+          print("I'm a",self.attr2)
+Rodger=Human()
+
+Print(Rodger.attar1)
+Rodger.fun()
